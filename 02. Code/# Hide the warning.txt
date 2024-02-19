@@ -1,0 +1,4 @@
+# Hide the warning
+
+import warnings
+warnings.filterwarnings('ignore')
